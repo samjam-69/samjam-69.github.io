@@ -21,7 +21,7 @@
         <img src="my-self.jpeg" style="width:30%;">
         <figcaption>Image of myself</figcaption>
     </figure>
-    <a href="file:///Users/sameer/Desktop/coding/Html/first.html"> navigate to first page></a>
+    <a href="[file:///Users/sameer/Desktop/coding/Html/first.html](https://github.com/samjam-69/samjam-69.github.io/blob/main/First.html)"> navigate to first page></a>
 
     <section>
         <h2>References</h2>
